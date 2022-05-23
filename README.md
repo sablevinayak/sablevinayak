@@ -2,7 +2,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Vinayak Sable and I'm a software developer. I'm from Pune <img src="https://www.flaticon.com/svg/static/icons/svg/3336/3336025.svg" width="30">, currently working at CTS. You can find me on [![LinkedIn][linkedInIcon]][linkedIn].
+My name is Vinayak Sable and I'm a software developer. I'm from Pune <img src="https://www.flaticon.com/svg/static/icons/svg/3336/3336025.svg" width="30">, currently working at Persistent systems. You can find me on [![LinkedIn][linkedInIcon]][linkedIn].
 
 
 ### Languages and Tools: 
